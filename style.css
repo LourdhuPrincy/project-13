@@ -8,7 +8,7 @@ body{
 }
 header{
     background-color: rgb(107, 51, 180);
-    height:80vh;
+    height:95vh;
     width:100vw;
     border-radius:20px;
 }
@@ -243,7 +243,7 @@ text-align: center;
 /* for medium screen */
 @media screen and (min-width:641px) and (max-width:1007px) {
     header{
-        height:140vh;
+        height:150vh;
         width:100vw;
     }
     nav{
@@ -363,7 +363,7 @@ text-align: center;
 /* for small screens */
 @media screen and (max-width:640px) {
    header{
-    height: 110vh;
+    height: 120vh;
     width: 100vw;
    }
    .logo{
